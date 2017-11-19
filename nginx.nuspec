@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>nginx</id>
+    <version>1.12.1</version>
+    <title>nginx</title>
+    <authors>Igor Sysoev</authors>
+    <owners>Gaetan Jaminon</owners>
+    <licenseUrl>http://nginx.org/LICENSE</licenseUrl>
+    <projectUrl>http://nginx.org</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/c3aabd0695aa9882f3a8540b9a7196be8d8c2839/icons/nginx.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, a generic TCP/UDP proxy server, as well as a load balancer and an HTTP cache.</description>
+    <summary>HTTP and reverse proxy server</summary>
+    <releaseNotes>#### Program
+* [News](https://www.nginx.com/blog/)
+* [Roadmap](https://trac.nginx.org/nginx/roadmap)
+* [Changelog](http://nginx.org/en/CHANGES)
+</releaseNotes>
+    <copyright>© Nginx, Inc.</copyright>
+    <tags>webserver proxy caching load-balancing</tags>
+    <projectSourceUrl>https://trac.nginx.org/nginx/browser</projectSourceUrl>
+    <docsUrl>http://nginx.org/docs/</docsUrl>
+    <mailingListUrl>http://nginx.org/en/support.html</mailingListUrl>
+    <bugTrackerUrl>https://trac.nginx.org/nginx</bugTrackerUrl>
+  </metadata>
+</package>
