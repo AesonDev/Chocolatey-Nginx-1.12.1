@@ -23,5 +23,8 @@
     <docsUrl>http://nginx.org/docs/</docsUrl>
     <mailingListUrl>http://nginx.org/en/support.html</mailingListUrl>
     <bugTrackerUrl>https://trac.nginx.org/nginx</bugTrackerUrl>
+    <dependencies>
+      <dependency id="nssm" version="2.24.0" />
+    </dependencies>
   </metadata>
 </package>
